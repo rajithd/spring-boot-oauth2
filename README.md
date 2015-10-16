@@ -8,7 +8,7 @@ mvn clean install -DskipTests spring-boot:run
 curl -i http://localhost:9191/api/hello
 Hello User!
 ```
-### Acess secure resource with token
+### Access secure resource with token
 ```sh
 curl -i http://localhost:9191/api/secure
 
