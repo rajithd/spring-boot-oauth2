@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/rajithd/spring-boot-oauth2.png)](http://travis-ci.org/rajithd/spring-boot-oauth2)
+
 # Build and Run
 ```java
 mvn clean install -DskipTests spring-boot:run
